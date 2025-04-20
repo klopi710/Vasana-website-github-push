@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vasanashop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vasanashop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vasanashop.com/collections/lamps.atom"/>
+  <title>Vasana™</title>
+  <updated>2023-03-25T15:34:00+01:00</updated>
+  <author>
+    <name>Vasana™</name>
+  </author>
+  <entry>
+    <id>https://vasanashop.com/products/8130943123747</id>
+    <published>2023-03-25T15:34:00+01:00</published>
+    <updated>2023-03-25T15:34:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/modern-wall-lamp"/>
+    <title>Modern Wall Lamp</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/ScreenShot2023-03-03at9.00.11AM.png?v=1678782932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            36.00 - 60.00
+            <a href="https://vasanashop.com/products/modern-wall-lamp">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <span data-mce-fragment="1">The Modern Minimalist LED Wall Lamp is a stylish and modern indoor decor wall sconce designed to add ambiance and sophistication to living rooms, bedrooms, and other indoor spaces. It is equipped with energy-efficient LED lights that provide bright and long-lasting illumination, making it a practical and eco-friendly lighting solution. </span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Slide / Cool</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:29#Awhite;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Slide / Warm</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:29#Awhite;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Slide / Natural</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:29#Awhite;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Slide / Cool</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:193#Ablack;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Slide / Warm</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:193#Ablack;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Slide / Natural</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:193#Ablack;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Plait / Cool</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:175#Bwhite;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Plait / Warm</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:175#Bwhite;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Plait / Natural</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:175#Bwhite;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Plait / Cool</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>200000795:10#Bblack;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Plait / Warm</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:10#Bblack;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Plait / Natural</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:10#Bblack;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Spiral / Cool</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:691#Cwhite;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Spiral / Warm</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:691#Cwhite;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Spiral / Natural</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:691#Cwhite;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Spiral / Cool</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:173#Cblack;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Spiral / Warm</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:173#Cblack;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Spiral / Natural</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:173#Cblack;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8184212291875</id>
+    <published>2023-03-22T06:50:20+01:00</published>
+    <updated>2023-03-22T06:50:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/bedroom-night-lights"/>
+    <title>Bedroom Night Lights</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Hbea992429b2c40d5bbc9df0376c3898dG.jpg?v=1679463179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The bedroom night lights. Vasana style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8184212291875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:200006151#Mold and Accessories</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939945251</id>
+    <published>2023-03-08T16:29:08+01:00</published>
+    <updated>2023-03-08T16:29:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/foldable-touch-controlled-desk-lamp"/>
+    <title>Foldable Touch-Controlled Desk Lamp</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/HTB1N.mbKuuSBuNjSsziq6zq8pXaZ.jpg?v=1676816998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Experience the convenience and style of this foldable desk lamp, perfect for any workspace or living space. With a simple touch, you can easily adjust the angle and dim the light with three intuitive levels of brightness, and the wooden handle allows you to hang the lamp with ease. </span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939945251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>136:29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130940076323</id>
+    <published>2023-03-08T16:29:07+01:00</published>
+    <updated>2023-03-08T16:29:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/rotating-wall-lamp"/>
+    <title>Rotating Wall Lamp</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/HTB1tBwXBZuYBuNkSmRyq6AA3pXa5.jpg?v=1676817003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <meta charset="utf-8"> <span data-mce-fragment="1">Discover the perfect way to light up your home with this modern marvel. This wall lamp features adjustable 360 rotation for optimal lighting and high-power LED chips for intense brightness. </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940076323</id>
+      <title>White</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>200000795:29#White;180:200002571#Warm white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940076323</id>
+      <title>Black</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>200000795:193#Black;180:200002571#Warm white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130943353123</id>
+    <published>2023-03-08T16:29:02+01:00</published>
+    <updated>2023-03-08T16:29:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/modern-ceiling-chandelier"/>
+    <title>Modern Ceiling Chandelier</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            105.00 - 267.00
+            <a href="https://vasanashop.com/products/modern-ceiling-chandelier">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Crafted from gleaming metal, this piece of home decor makes a striking statement wherever you decide to place it. </span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943353123</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>200000531:193#Type A90X115;136:200003939#cool white no remote;14:193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943353123</id>
+      <title>Small / Gold</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>200000531:193#Type A90X115;136:200003939#cool white no remote;14:350850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943353123</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>200000531:173#Type B120X120;136:200003939#cool white no remote;14:193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943353123</id>
+      <title>Medium / Gold</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>200000531:173#Type B120X120;136:200003939#cool white no remote;14:350850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943353123</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">267.00</s:price>
+      <s:sku>200000531:365458#Type C150X120;136:200003939#cool white no remote;14:193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943353123</id>
+      <title>Large / Gold</title>
+      <s:price currency="USD">267.00</s:price>
+      <s:sku>200000531:365458#Type C150X120;136:200003939#cool white no remote;14:350850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

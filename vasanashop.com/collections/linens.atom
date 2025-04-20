@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vasanashop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vasanashop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vasanashop.com/collections/linens.atom"/>
+  <title>Vasana™</title>
+  <updated>2023-03-08T16:29:08+01:00</updated>
+  <author>
+    <name>Vasana™</name>
+  </author>
+  <entry>
+    <id>https://vasanashop.com/products/8130939814179</id>
+    <published>2023-03-08T16:29:08+01:00</published>
+    <updated>2023-03-08T16:29:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/french-style-rug"/>
+    <title>French Style Rug</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/ScreenShot2023-02-26at6.38.36PM.png?v=1677433210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            100.00 - 450.00
+            <a href="https://vasanashop.com/products/french-style-rug">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you into French Rugs? Although my job is not to share personal info ( as I'm a copywriter ), I'm really into the tiger stuff. What's more, it makes me feel like I'm walking on freshly cut grass barefoot ( yeah I bought one myself ).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:366#B;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:366#B;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:366#B;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:366#B;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:366#B;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 200x300cm</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>14:366#B;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:10#C;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:10#C;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:10#C;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:10#C;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:10#C;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 200x300cm</title>
+      <s:price currency="USD">216.75</s:price>
+      <s:sku>14:10#C;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:200002984#D;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:200002984#D;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:200002984#D;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:200002984#D;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:200002984#D;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 200x300cm</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>14:200002984#D;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:496#E;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:496#E;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:496#E;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:496#E;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:496#E;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 200x300cm</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>14:496#E;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:200006151#F;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:200006151#F;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:200006151#F;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:200006151#F;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:200006151#F;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 200x300cm</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>14:200006151#F;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130940764451</id>
+    <published>2023-03-08T16:29:06+01:00</published>
+    <updated>2023-03-08T16:29:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/hand-knot-cushions"/>
+    <title>Hand Knot Cushions</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/H7929ab4ae20941338d512cc9812bb4646.jpg?v=1680280241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">At first glance, they're just two pillows. But look closer and you'll see they're much more. They're two hand knot cushions, and they're here to change the way you think about comfort.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Baby Blue</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:29#sky blue;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Pink</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:366#pink;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>White</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:496#white;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Gray</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:200006151#gray;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Red</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:175#red;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Matcha</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:173#matcha;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Brown</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:193#brown;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Beige</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:200006152#beige;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Yellow</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:200006153#yellow;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940764451</id>
+      <title>Ocean Blue</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:1254#BLUE;183:200012945#25-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130942894371</id>
+    <published>2023-03-08T16:29:03+01:00</published>
+    <updated>2023-03-08T16:29:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/chunky-knitted-blanket"/>
+    <title>Chunky Knitted Blanket</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/HTB1vF7.Xs_vK1Rjy0Foq6xIxVXaa.jpg?v=1680061665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            85.00 - 125.00
+            <a href="https://vasanashop.com/products/chunky-knitted-blanket">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Snuggling up on the couch watching your favorite series, or maybe you are relaxing with a book on a sunday morning with your hot coffee. Say hello to your new best friend, who is a bit chubby though, but keeps you warm and hugs you with it's softness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Black / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:193;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Black / 120x150cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:193;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Green / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:175;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Green / 120x150cm</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>14:175;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Blue / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:173;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Blue / 120x150cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:173;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Yellow / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:366;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Yellow / 120x150cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:366;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Pink / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:1052;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Pink / 120x150cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:1052;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>White / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:29;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>White / 120x150cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:29;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Burgundy / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:200002984;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Burgundy / 120x150cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:200002984;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Sky blue / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:1254;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Sky blue / 120x150cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:1254;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Dark gray / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>14:200006155;5:202827821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Dark gray / 120x150cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:200006155;5:200011734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130942894371</id>
+      <title>Beige / 100x120cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

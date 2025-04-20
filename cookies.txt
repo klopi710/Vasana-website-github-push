@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vasanashop.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22ESCT%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22FED05F1E-cd13-4566-8d7c-41e11339c264%22%7D
+vasanashop.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+vasanashop.com	TRUE	/	FALSE	1999999999	_shopify_country	Spain
+vasanashop.com	TRUE	/	FALSE	1999999999	keep_alive	7d455c5a-9782-4821-9794-ca87a76a9138
+vasanashop.com	TRUE	/	FALSE	1999999999	localization	ES
+vasanashop.com	TRUE	/	FALSE	1999999999	_shopify_y	A54A0993-08db-47C8-ad3b-101423301dd3
+vasanashop.com	TRUE	/	FALSE	1999999999	_shopify_s	35DD0D65-3ad3-4832-a838-b75087d09094
+vasanashop.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

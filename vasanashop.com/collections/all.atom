@@ -1,0 +1,2126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vasanashop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vasanashop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vasanashop.com/collections/all.atom"/>
+  <title>Vasana™</title>
+  <updated>2023-05-21T10:41:40+02:00</updated>
+  <author>
+    <name>Vasana™</name>
+  </author>
+  <entry>
+    <id>https://vasanashop.com/products/8213131165987</id>
+    <published>2023-05-21T10:41:40+02:00</published>
+    <updated>2023-05-21T10:41:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/eastern-coffee-spoon"/>
+    <title>Eastern Coffee Spoon</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S6d197bb7506b4c7e9058527c9f8633cdf.jpg?v=1680950063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            8.00 - 10.00
+            <a href="https://vasanashop.com/products/eastern-coffee-spoon">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted accessory for your next coffee date. Sip in style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131165987</id>
+      <title>S Beechwood</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>14:200006151#S Beechwood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131165987</id>
+      <title>L Beechwood</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>14:200006152#L Beechwood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131165987</id>
+      <title>S Black Walnut</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>14:200006153#S Black Walnut</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131165987</id>
+      <title>L Black Walnut</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>14:200006154#L Black Walnut</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939748643</id>
+    <published>2023-04-09T16:48:47+02:00</published>
+    <updated>2023-04-09T16:48:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/modern-shoe-armoire"/>
+    <title>Modern Shoe Armoire</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S36f538e3780a4982b573cda7e73518fbE.jpg?v=1676816997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            665.00 - 1500.00
+            <a href="https://vasanashop.com/products/modern-shoe-armoire">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Now this is how luxury looks like in reality. Store your footware, James Bond style.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 1</title>
+      <s:price currency="USD">665.00</s:price>
+      <s:sku>14:10#Style 1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 2</title>
+      <s:price currency="USD">665.00</s:price>
+      <s:sku>14:29#Style 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 3</title>
+      <s:price currency="USD">665.00</s:price>
+      <s:sku>14:173#Style 3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 4</title>
+      <s:price currency="USD">675.00</s:price>
+      <s:sku>14:175#Style 4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 5</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku>14:193#Style 5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 6</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku>14:366#Style 6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 7</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku>14:496#Style 7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 8</title>
+      <s:price currency="USD">980.00</s:price>
+      <s:sku>14:365458#Style 8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 9</title>
+      <s:price currency="USD">980.00</s:price>
+      <s:sku>14:200003699#Style 9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 10</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>14:100018786#Style 10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 11</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>14:200002984#Style 11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 14</title>
+      <s:price currency="USD">1300.00</s:price>
+      <s:sku>14:365016#Style 14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 13</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>14:200006153#Style 13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 15</title>
+      <s:price currency="USD">1300.00</s:price>
+      <s:sku>14:1254#Style 15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 16</title>
+      <s:price currency="USD">1400.00</s:price>
+      <s:sku>14:200006154#Style 16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 18</title>
+      <s:price currency="USD">1500.00</s:price>
+      <s:sku>14:200006156#Style 18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 12</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku>14:200006151#Style 12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 17</title>
+      <s:price currency="USD">1400.00</s:price>
+      <s:sku>14:200005100#Style 17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939748643</id>
+      <title>Style 19</title>
+      <s:price currency="USD">1500.00</s:price>
+      <s:sku>14:1063#Style 19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8213131133219</id>
+    <published>2023-04-08T13:21:39+02:00</published>
+    <updated>2023-04-08T13:21:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/pillow-plates"/>
+    <title>Pillow Plates</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sf823f8f98e6b4c82bb5c7a4ad2872241m.jpg?v=1680950061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            40.00 - 50.00
+            <a href="https://vasanashop.com/products/pillow-plates">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">No they are not cushions, they are too firm for that. Not your usual plates however, just the usual from Vasana.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131133219</id>
+      <title>White / S</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:350686#pure white;213466682:9138#6 inches</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131133219</id>
+      <title>White / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>something</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131133219</id>
+      <title>Black / S</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:350853#all black;213466682:9138#6 inches</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131133219</id>
+      <title>Black / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>something</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8213131067683</id>
+    <published>2023-04-08T13:00:24+02:00</published>
+    <updated>2023-04-08T13:00:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/vacuum-sealed-coffee-tank"/>
+    <title>Vacuum Sealed Coffee Tank</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Se1f6cf34fc5049e987e026f86684e2a3Q.jpg?v=1680950060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            20.00 - 30.00
+            <a href="https://vasanashop.com/products/vacuum-sealed-coffee-tank">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SEAL THEM ALL! Sorry. </p>
+<p>Keep your coffee beans in a cool place, and have them fresh whenever you feel like it. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131067683</id>
+      <title>500 ML</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>14:193#Black gold cover 500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131067683</id>
+      <title>900 ML</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>14:175#Black gold cover 900</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131067683</id>
+      <title>1200 ML</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>14:10#Black gold cover1200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131067683</id>
+      <title>1900 ML</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:173#Black gold cover1800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8213060059427</id>
+    <published>2023-04-08T12:20:45+02:00</published>
+    <updated>2023-04-08T12:20:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/decanter-king-size"/>
+    <title>Decanter - King Size</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sbcee4d057bb14f90bbe83da4efa2d5175.jpg?v=1680945990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This one is not just for the looks. This one finally keeps a whole glass of vine and more, while having a thick glass wall. Not to mention all of the 'where did you get that' from the guests. C</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213060059427</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>200007763:201336100;14:173#as pic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8205206978851</id>
+    <published>2023-04-06T11:01:46+02:00</published>
+    <updated>2023-04-06T11:01:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/nordic-marble-table"/>
+    <title>Nordic Marble Table</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sf89566f789a9411cb3bc2d3a9c2220eau.jpg?v=1680523661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Playing poker smoking cigars with whiskey on ice? <br>Or having a glass of gin tonic talking about ‘the guy’ with your best friend?</p>
+<p>Do all of that, but stylish. Do it classy. Do it Vasana. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8205206978851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2500.00</s:price>
+      <s:sku>14:200004889#135cm Slate</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8200116437283</id>
+    <published>2023-04-03T13:49:19+02:00</published>
+    <updated>2023-04-03T13:49:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/classy-living-room-armchair"/>
+    <title>Classy Living room Armchair</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sad3c0197deeb4d6e9b035c54e71bc15fp.jpg?v=1680251899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            920.00 - 1000.00
+            <a href="https://vasanashop.com/products/classy-living-room-armchair">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Have you been missing something from your living room, but you don't what it is? Try out our new luxury armchair that you have been lacking .</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Dark Green</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:200005536#style1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Pink</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:200004889#style2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Grey</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:200000195#style3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:100013777#style4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Yellow</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:365016#style5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Dark Blue</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:365458#style6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Dark Green With Cushion</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku>14:10#style7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Pink With Cushion</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku>14:29#style8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Yellow - 2</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:173#style9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Mustard</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:175#style10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Brown</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:193#style11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8200116437283</id>
+      <title>Blue-Green</title>
+      <s:price currency="USD">920.00</s:price>
+      <s:sku>14:366#style12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130941354275</id>
+    <published>2023-03-30T19:33:26+02:00</published>
+    <updated>2023-03-30T19:33:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/japanese-wood-trays"/>
+    <title>Japanese Wood Trays</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/ScreenShot2023-03-13at3.00.04PM.png?v=1678716026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            30.00 - 110.00
+            <a href="https://vasanashop.com/products/japanese-wood-trays">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stunning wood tray is crafted from the finest acacia solid wood, making it durable and long-lasting. The plain pattern adds a touch of simple elegance to your kitchen, while the scrubbed surface gives it a sleek and modern look.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>16.5x16.5cm</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>14:350853#B 16.5x16.5cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>4PCS</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:29#4PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>5PCS</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>14:94#5PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>16.5x12.5cm</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:193#A 16.5x12.5cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>25x12.5cm</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>14:366#C 25x12.5cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>25x16.5</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:496#D 25x16.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>25x25cm</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:1202#E 25x25cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939355427</id>
+    <published>2023-03-30T19:29:14+02:00</published>
+    <updated>2023-03-30T19:29:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/nordic-living-room-furniture"/>
+    <title>Nordic Living Room Furniture</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S00b9f27801204edb87a1cbe5c63c3e0eZ.jpg?v=1676816988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Nordic Table can be used anywhere, the customer just has to imagine it. It can even be used for various purposes, such as serving tea and coffee, holding books and magazines, or it can even serve as a small workspace.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939355427</id>
+      <title>60x60x33cm -1</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>14:200004889#60x60x33cm -1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939355427</id>
+      <title>60x60x33cm -2</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>14:193#60x60x33cm -2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939355427</id>
+      <title>60x60x33cm -3</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>14:173#60x60x33cm -3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8144558424355</id>
+    <published>2023-03-30T19:12:08+02:00</published>
+    <updated>2023-03-30T19:12:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/toilet-roll-paper-holder"/>
+    <title>Toilet Roll Paper Holder</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/6.jpg?v=1677572363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Toilet roll paper holder, clean and simple design with a space-saving rack that holds up to four rolls of toilet paper. The perfect solution for your bathroom storage needs!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Restroom</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8144558424355</id>
+      <title>Beech(Screw)</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200006151#Beech(Screw)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8144558424355</id>
+      <title>Beech(Glue)</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200006152#Beech(Glue)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8144558424355</id>
+      <title>Black Walnut(Screw)</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200006153#Black Walnut(Screw)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8144558424355</id>
+      <title>Black Walnut(Glue)</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200006154#Black Walnut(Glue)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8152889688355</id>
+    <published>2023-03-30T19:11:39+02:00</published>
+    <updated>2023-03-30T19:11:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/resin-four-piece-bathroom-accessory-set"/>
+    <title>Resin Four-Piece Bathroom Accessory Set</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sa9695a49ead6464683c36d025ab98cb0K.jpg?v=1677933736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            23.00 - 100.00
+            <a href="https://vasanashop.com/products/resin-four-piece-bathroom-accessory-set">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">With a stylish resin finish, this set is both practical and fashionable, making it the perfect addition to any bathroom.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Restroom</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>4 Pcs</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:29#4 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>3 Pcs</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>14:366#3 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>2 Pcs</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:10#2 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>2 Pcs 1</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:200002984#2 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>2 Pcs 2</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>14:496#2 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>Soap dispenser</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:200006151#Soap dispenser;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>Toothbrush Cup</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200004891#Toothbrush Cup;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>Soap Dish</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>14:200005536#Soap Dish;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>Toilet Brush Holder</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:100018786#Toilet Brush Holder;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130943123747</id>
+    <published>2023-03-25T15:34:00+01:00</published>
+    <updated>2023-03-25T15:34:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/modern-wall-lamp"/>
+    <title>Modern Wall Lamp</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/ScreenShot2023-03-03at9.00.11AM.png?v=1678782932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            36.00 - 60.00
+            <a href="https://vasanashop.com/products/modern-wall-lamp">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <span data-mce-fragment="1">The Modern Minimalist LED Wall Lamp is a stylish and modern indoor decor wall sconce designed to add ambiance and sophistication to living rooms, bedrooms, and other indoor spaces. It is equipped with energy-efficient LED lights that provide bright and long-lasting illumination, making it a practical and eco-friendly lighting solution. </span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Slide / Cool</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:29#Awhite;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Slide / Warm</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:29#Awhite;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Slide / Natural</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:29#Awhite;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Slide / Cool</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:193#Ablack;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Slide / Warm</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:193#Ablack;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Slide / Natural</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>200000795:193#Ablack;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Plait / Cool</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:175#Bwhite;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Plait / Warm</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:175#Bwhite;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Plait / Natural</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:175#Bwhite;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Plait / Cool</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>200000795:10#Bblack;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Plait / Warm</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:10#Bblack;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Plait / Natural</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>200000795:10#Bblack;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Spiral / Cool</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:691#Cwhite;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Spiral / Warm</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:691#Cwhite;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>White - Spiral / Natural</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:691#Cwhite;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Spiral / Cool</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:173#Cblack;180:200002567#Coolwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Spiral / Warm</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:173#Cblack;180:200002571#Warmwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130943123747</id>
+      <title>Black - Spiral / Natural</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>200000795:173#Cblack;180:200002570#Naturalwhite</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8184212291875</id>
+    <published>2023-03-22T06:50:20+01:00</published>
+    <updated>2023-03-22T06:50:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/bedroom-night-lights"/>
+    <title>Bedroom Night Lights</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Hbea992429b2c40d5bbc9df0376c3898dG.jpg?v=1679463179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The bedroom night lights. Vasana style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8184212291875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:200006151#Mold and Accessories</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939486499</id>
+    <published>2023-03-08T16:29:09+01:00</published>
+    <updated>2023-03-08T16:29:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/storage-cabinets"/>
+    <title>Storage Cabinets</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S4f55fa37012c4fe9bb7a9159e2f1b0f2E.jpg?v=1676816992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>A stylish and practical storage solution that can be used in any room of your home. Spacious drawers, therefore convenient, elegant therefore sophisticated. Yes, that's why we only have it in blue.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939486499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">270.00</s:price>
+      <s:sku>200007763:201336100;14:173#Blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939322659</id>
+    <published>2023-03-08T16:29:09+01:00</published>
+    <updated>2023-03-08T16:29:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/nordic-lounge-chair"/>
+    <title>Nordic Lounge Chair</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S57babccd4c0942af87227e16dbd5df9eA.jpg?v=1676816994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            370.00 - 410.00
+            <a href="https://vasanashop.com/products/nordic-lounge-chair">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Want to spice up your living room with something but don't know what you need? Why not try this Lounge Chair which makes your house more unique with its sleek design!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>White</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>14:201447499#style1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>Yellow</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>14:200143091#style2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>Grey</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>14:200844060#style3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>Blue</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>14:200844061#style4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>Brown</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>14:200844062#style5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>Yellow with Footrest</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku>14:200141872#style7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>White with Footrest</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku>14:200006152#style6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>Grey with Footrest</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku>14:200006154#style8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939322659</id>
+      <title>Brown with Footrest</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku>14:200005536#style10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939945251</id>
+    <published>2023-03-08T16:29:08+01:00</published>
+    <updated>2023-03-08T16:29:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/foldable-touch-controlled-desk-lamp"/>
+    <title>Foldable Touch-Controlled Desk Lamp</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/HTB1N.mbKuuSBuNjSsziq6zq8pXaZ.jpg?v=1676816998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Experience the convenience and style of this foldable desk lamp, perfect for any workspace or living space. With a simple touch, you can easily adjust the angle and dim the light with three intuitive levels of brightness, and the wooden handle allows you to hang the lamp with ease. </span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939945251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>136:29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939912483</id>
+    <published>2023-03-08T16:29:08+01:00</published>
+    <updated>2023-03-08T16:29:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/mini-dustbin"/>
+    <title>Mini Dustbin</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/H06e28440c22e4d11908823c35621b6b35.jpg?v=1676816999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool mini dustbin for paper stuff so you don't have to go out into the kitchen to throw a scrambled idea out.<br></p>
+<p><span data-mce-fragment="1" mce-data-marked="1">We thought about this description long and hard yes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Restroom</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939912483</id>
+      <title>Gray</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>14:10#gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939912483</id>
+      <title>Pink</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>14:347#pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939912483</id>
+      <title>White</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>14:29#white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939814179</id>
+    <published>2023-03-08T16:29:08+01:00</published>
+    <updated>2023-03-08T16:29:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/french-style-rug"/>
+    <title>French Style Rug</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/ScreenShot2023-02-26at6.38.36PM.png?v=1677433210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            100.00 - 450.00
+            <a href="https://vasanashop.com/products/french-style-rug">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you into French Rugs? Although my job is not to share personal info ( as I'm a copywriter ), I'm really into the tiger stuff. What's more, it makes me feel like I'm walking on freshly cut grass barefoot ( yeah I bought one myself ).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:366#B;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:366#B;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:366#B;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:366#B;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:366#B;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Zebra / 200x300cm</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>14:366#B;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:10#C;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:10#C;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:10#C;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:10#C;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:10#C;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Dimension / 200x300cm</title>
+      <s:price currency="USD">216.75</s:price>
+      <s:sku>14:10#C;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:200002984#D;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:200002984#D;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:200002984#D;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:200002984#D;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:200002984#D;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Versailles / 200x300cm</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>14:200002984#D;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:496#E;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:496#E;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:496#E;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:496#E;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:496#E;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis Abussuon / 200x300cm</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>14:496#E;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 80x160cm</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:200006151#F;5:273960608#80x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 100x160cm</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>14:200006151#F;5:458380415#100x160cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 140x200cm</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>14:200006151#F;5:200844314#140x200cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 160x230cm</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>14:200006151#F;5:200844315#160x230cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 180x250cm</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>14:200006151#F;5:200844316#180x250cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939814179</id>
+      <title>Tapis de Persia / 200x300cm</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>14:200006151#F;5:200844317#200x300cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939650339</id>
+    <published>2023-03-08T16:29:08+01:00</published>
+    <updated>2023-03-08T16:29:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/fabric-shoe-stool"/>
+    <title>Fabric Shoe Stool</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S6bf366e784de44a3908a1338eea4f584Y.jpg?v=1676816997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Our flannel chairs are soft and cozy, perfect for lounging in the living room or bedroom. Our height-adjustable chairs are designed with ergonomics in mind, ensuring you have a comfortable and healthy posture while working or studying.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>Light brown</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200004889#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>Light green</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:193#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>Grey</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:173#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>Dark grey</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:365458#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>Green</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200844060#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>Pink</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200000195#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>Salmon</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200143091#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>black yellow</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200006155#black yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>black white</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200006154#black white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>black green</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200141872#black green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>black purple</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:175#black purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>golden yellow</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200844061#golden yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>black blue</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200006152#black blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>golden blue</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:365016#golden blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>golden purple</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:29#golden purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>golden white</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:366#golden white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939650339</id>
+      <title>golden green</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:200004891#golden green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939617571</id>
+    <published>2023-03-08T16:29:08+01:00</published>
+    <updated>2023-03-08T16:29:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/small-side-table-living-room"/>
+    <title>Small Side Table Living Room</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S5bf75579dfc9424daf76b4df0690ce0aF.jpg?v=1676816993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <meta charset="utf-8"> <span data-mce-fragment="1">Discover a living room essential that's both stylish and functional. This small side table features a modern, minimalist design with a round table edge and double bottom pole for enhanced stability and support.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939617571</id>
+      <title>Black</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>14:193#Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939617571</id>
+      <title>Light Walnut</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>14:200844061#Light Walnut</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939617571</id>
+      <title>Dark Walnut</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>14:618#Dark Walnut</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939617571</id>
+      <title>White</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>14:29#White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130940174627</id>
+    <published>2023-03-08T16:29:07+01:00</published>
+    <updated>2023-03-08T16:29:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/mug-warmer"/>
+    <title>Mug Warmer</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S4c715172306448849af95f9892c0022a0.jpg?v=1676894711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mug warmers are the perfect way to keep your coffee or tea hot all day long. Simply plug in the mug warmer to any outlet and place your mug on the warming plate. Handy for keeping the kids food hot as well.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940174627</id>
+      <title>With EU Plug Convertor</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:193#EU Plug Convertor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940174627</id>
+      <title>With UK Plug Convertor</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:366#UK Plug Convertor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940174627</id>
+      <title>With AU Plug Convertor</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:496#AU Plug Convertor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130940076323</id>
+    <published>2023-03-08T16:29:07+01:00</published>
+    <updated>2023-03-08T16:29:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/rotating-wall-lamp"/>
+    <title>Rotating Wall Lamp</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/HTB1tBwXBZuYBuNkSmRyq6AA3pXa5.jpg?v=1676817003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <meta charset="utf-8"> <span data-mce-fragment="1">Discover the perfect way to light up your home with this modern marvel. This wall lamp features adjustable 360 rotation for optimal lighting and high-power LED chips for intense brightness. </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lightning</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940076323</id>
+      <title>White</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>200000795:29#White;180:200002571#Warm white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940076323</id>
+      <title>Black</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>200000795:193#Black;180:200002571#Warm white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130940043555</id>
+    <published>2023-03-08T16:29:07+01:00</published>
+    <updated>2023-03-08T16:29:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/canvas-print-abstract"/>
+    <title>Canvas Print - Abstract</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Hdd49ad52c96444bba4b54a0d21a1358dV.jpg?v=1676817009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            12.00 - 85.00
+            <a href="https://vasanashop.com/products/canvas-print-abstract">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For those who can enjoy getting lost in a picture for minutes, this won't leave you disappointed. Easy conversation starter as well, for those who visit your home for the first time ( first date idea: 'look at cool paintings together' ).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorations</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Jenny / 15x20cm</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>200000886:200005376#15x20cm No Frame;14:29#202012NQ369A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Jenny / 20x25cm</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>200000886:200004516#20x25cm No Frame;14:29#202012NQ369A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Jenny / 30x40cm</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>200000886:200004517#30x40cm No Frame;14:29#202012NQ369A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Jenny / 40x60cm</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>200000886:200004519#40x60cm No Frame;14:29#202012NQ369A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Jenny / 50x75cm</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>200000886:200004523#50x75cm No Frame;14:29#202012NQ369A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Jenny / 60x90cm</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>200000886:200659438#60x90cm No Frame;14:29#202012NQ369A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Night &amp; Day / 15x20cm</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>200000886:200005376#15x20cm No Frame;14:366#202012NQ369B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Night &amp; Day / 20x25cm</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>200000886:200004516#20x25cm No Frame;14:366#202012NQ369B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Night &amp; Day / 30x40cm</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>200000886:200004517#30x40cm No Frame;14:366#202012NQ369B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Night &amp; Day / 40x60cm</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>200000886:200004519#40x60cm No Frame;14:366#202012NQ369B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Night &amp; Day / 50x75cm</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>200000886:200004523#50x75cm No Frame;14:366#202012NQ369B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Night &amp; Day / 60x90cm</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>200000886:200659438#60x90cm No Frame;14:366#202012NQ369B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Personalities / 15x20cm</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>200000886:200005376#15x20cm No Frame;14:10#202012NQ369C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Personalities / 20x25cm</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>200000886:200004516#20x25cm No Frame;14:10#202012NQ369C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Personalities / 30x40cm</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>200000886:200004517#30x40cm No Frame;14:10#202012NQ369C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Personalities / 40x60cm</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>200000886:200004519#40x60cm No Frame;14:10#202012NQ369C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Personalities / 50x75cm</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>200000886:200004523#50x75cm No Frame;14:10#202012NQ369C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Personalities / 60x90cm</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>200000886:200659438#60x90cm No Frame;14:10#202012NQ369C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Bonsai / 15x20cm</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>200000886:200005376#15x20cm No Frame;14:200002984#202012NQ369D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Bonsai / 20x25cm</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>200000886:200004516#20x25cm No Frame;14:200002984#202012NQ369D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Bonsai / 30x40cm</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>200000886:200004517#30x40cm No Frame;14:200002984#202012NQ369D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Bonsai / 40x60cm</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>200000886:200004519#40x60cm No Frame;14:200002984#202012NQ369D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Bonsai / 50x75cm</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>200000886:200004523#50x75cm No Frame;14:200002984#202012NQ369D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Bonsai / 60x90cm</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>200000886:200659438#60x90cm No Frame;14:200002984#202012NQ369D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Double Jenny / 15x20cm</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>200000886:200005376#15x20cm No Frame;14:200006155#Two Pictures</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Double Jenny / 20x25cm</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>200000886:200004516#20x25cm No Frame;14:200006155#Two Pictures</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Double Jenny / 30x40cm</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>200000886:200004517#30x40cm No Frame;14:200006155#Two Pictures</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Double Jenny / 40x60cm</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>200000886:200004519#40x60cm No Frame;14:200006155#Two Pictures</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Double Jenny / 50x75cm</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>200000886:200004523#50x75cm No Frame;14:200006155#Two Pictures</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940043555</id>
+      <title>Double Jenny / 60x90cm</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>200000886:200659438#60x90cm No Frame;14:200006155#Two Pictures</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130940010787</id>
+    <published>2023-03-08T16:29:07+01:00</published>
+    <updated>2023-03-08T16:29:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/premium-herb-keeper"/>
+    <title>Premium Herb Keeper</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sf08d4f1dedb84f75bf463a671206ef64J.jpg?v=1676817001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>If you want to keep your herbs and vegetables fresh for longer, this Herb Keeper is for you. It helps to maintain optimal humidity levels to preserve freshness and flavor.</h4>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>plants</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940010787</id>
+      <title>Herb keeper</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>200007763:201336100;14:175#1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130941059363</id>
+    <published>2023-03-08T16:29:06+01:00</published>
+    <updated>2023-03-08T16:29:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/crystal-bell-peppers"/>
+    <title>Crystal Bell Peppers</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/ScreenShot2023-03-05at11.22.32PM.png?v=1678054986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            25.00 - 65.00
+            <a href="https://vasanashop.com/products/crystal-bell-peppers">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Their vibrant colors and sparkling finish make them perfect for any table setting or décor. Whether displayed individually or as part of a set, these bell pepper decorations are sure to impress.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorations</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941059363</id>
+      <title>All</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>14:350851#Mix 3 colors</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941059363</id>
+      <title>Red</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>14:10#Red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941059363</id>
+      <title>Green</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>14:175#Green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941059363</id>
+      <title>Yellow</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>14:366#Yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

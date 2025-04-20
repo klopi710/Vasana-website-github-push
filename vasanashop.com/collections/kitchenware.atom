@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vasanashop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vasanashop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vasanashop.com/collections/kitchenware.atom"/>
+  <title>Vasana™</title>
+  <updated>2023-05-21T10:41:40+02:00</updated>
+  <author>
+    <name>Vasana™</name>
+  </author>
+  <entry>
+    <id>https://vasanashop.com/products/8213131165987</id>
+    <published>2023-05-21T10:41:40+02:00</published>
+    <updated>2023-05-21T10:41:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/eastern-coffee-spoon"/>
+    <title>Eastern Coffee Spoon</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/S6d197bb7506b4c7e9058527c9f8633cdf.jpg?v=1680950063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            8.00 - 10.00
+            <a href="https://vasanashop.com/products/eastern-coffee-spoon">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted accessory for your next coffee date. Sip in style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131165987</id>
+      <title>S Beechwood</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>14:200006151#S Beechwood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131165987</id>
+      <title>L Beechwood</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>14:200006152#L Beechwood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131165987</id>
+      <title>S Black Walnut</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>14:200006153#S Black Walnut</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131165987</id>
+      <title>L Black Walnut</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>14:200006154#L Black Walnut</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8213131133219</id>
+    <published>2023-04-08T13:21:39+02:00</published>
+    <updated>2023-04-08T13:21:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/pillow-plates"/>
+    <title>Pillow Plates</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sf823f8f98e6b4c82bb5c7a4ad2872241m.jpg?v=1680950061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            40.00 - 50.00
+            <a href="https://vasanashop.com/products/pillow-plates">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">No they are not cushions, they are too firm for that. Not your usual plates however, just the usual from Vasana.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131133219</id>
+      <title>White / S</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:350686#pure white;213466682:9138#6 inches</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131133219</id>
+      <title>White / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>something</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131133219</id>
+      <title>Black / S</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:350853#all black;213466682:9138#6 inches</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131133219</id>
+      <title>Black / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>something</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8213131067683</id>
+    <published>2023-04-08T13:00:24+02:00</published>
+    <updated>2023-04-08T13:00:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/vacuum-sealed-coffee-tank"/>
+    <title>Vacuum Sealed Coffee Tank</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Se1f6cf34fc5049e987e026f86684e2a3Q.jpg?v=1680950060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            20.00 - 30.00
+            <a href="https://vasanashop.com/products/vacuum-sealed-coffee-tank">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SEAL THEM ALL! Sorry. </p>
+<p>Keep your coffee beans in a cool place, and have them fresh whenever you feel like it. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131067683</id>
+      <title>500 ML</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>14:193#Black gold cover 500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131067683</id>
+      <title>900 ML</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>14:175#Black gold cover 900</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131067683</id>
+      <title>1200 ML</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>14:10#Black gold cover1200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213131067683</id>
+      <title>1900 ML</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:173#Black gold cover1800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8213060059427</id>
+    <published>2023-04-08T12:20:45+02:00</published>
+    <updated>2023-04-08T12:20:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/decanter-king-size"/>
+    <title>Decanter - King Size</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sbcee4d057bb14f90bbe83da4efa2d5175.jpg?v=1680945990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This one is not just for the looks. This one finally keeps a whole glass of vine and more, while having a thick glass wall. Not to mention all of the 'where did you get that' from the guests. C</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8213060059427</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>200007763:201336100;14:173#as pic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130941354275</id>
+    <published>2023-03-30T19:33:26+02:00</published>
+    <updated>2023-03-30T19:33:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/japanese-wood-trays"/>
+    <title>Japanese Wood Trays</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/ScreenShot2023-03-13at3.00.04PM.png?v=1678716026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            30.00 - 110.00
+            <a href="https://vasanashop.com/products/japanese-wood-trays">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stunning wood tray is crafted from the finest acacia solid wood, making it durable and long-lasting. The plain pattern adds a touch of simple elegance to your kitchen, while the scrubbed surface gives it a sleek and modern look.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>16.5x16.5cm</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>14:350853#B 16.5x16.5cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>4PCS</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:29#4PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>5PCS</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>14:94#5PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>16.5x12.5cm</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:193#A 16.5x12.5cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>25x12.5cm</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>14:366#C 25x12.5cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>25x16.5</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:496#D 25x16.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941354275</id>
+      <title>25x25cm</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:1202#E 25x25cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130940993827</id>
+    <published>2023-03-08T16:29:06+01:00</published>
+    <updated>2023-03-08T16:29:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/can-cup"/>
+    <title>Can Cup</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/new.png?v=1680949479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Soda is great. It's packaging? Not so much. At least when it comes to the environment. Change it up with the this cup, that represents the can shape, but is made from glass. Tends to be popular among the kids.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130940993827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>14:193#301-400ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130941255971</id>
+    <published>2023-03-08T16:29:05+01:00</published>
+    <updated>2023-03-08T16:29:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/kimchi-jar"/>
+    <title>Kimchi Jar</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/H5d55d7ec478647a58ab96740e768c10eT.jpg?v=1676817069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            30.00 - 37.00
+            <a href="https://vasanashop.com/products/kimchi-jar">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-cjpki-79elbk h-full dark:bg-gray-800">
+<div class="react-scroll-to-bottom--css-cjpki-1n7m0yu">
+<div class="flex flex-col items-center text-sm dark:bg-gray-800">
+<div class="w-full border-b border-black/10 dark:border-gray-900/50 text-gray-800 dark:text-gray-100 group bg-gray-50 dark:bg-[#444654]">
+<div class="text-base gap-4 md:gap-6 m-auto md:max-w-2xl lg:max-w-2xl xl:max-w-3xl p-4 md:py-6 flex lg:px-0">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p><meta charset="utf-8"><span>Introduce a modern simplicity to your kitchen. The Kimchi Keeper is designed to help you store your favorite condiments and grains with airtight sealing to ensure none of the flavor is lost. A storage bottle that's both stylish and functional, the Kimchi Keeper can help you store your kitchen items with ease. So say goodbye to mess and hello to sleek and stylish storage!</span></p>
+</div>
+</div>
+</div>
+<div class="flex justify-between">
+<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-3 md:gap-4 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"><br></div>
+</div>
+</div>
+</div>
+</div>
+<div class="w-full h-32 md:h-48 flex-shrink-0"><br></div>
+</div>
+</div>
+</div>
+</div>
+<div class="absolute bottom-0 left-0 w-full border-t md:border-t-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:bg-vert-light-gradient bg-white dark:bg-gray-800 md:!bg-transparent dark:md:bg-vert-dark-gradient"><form class="stretch mx-2 flex flex-row gap-3 pt-2 last:mb-2 md:last:mb-6 lg:mx-auto lg:max-w-3xl lg:pt-6">
+<div class="relative flex h-full flex-1 md:flex-col">
+<div class="flex ml-1 mt-1.5 md:w-full md:m-auto md:mb-2 gap-0 md:gap-2 justify-center"><br></div>
+</div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941255971</id>
+      <title>Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:200006151#Small 500ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941255971</id>
+      <title>Large</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>14:200006152#Large 980ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130941223203</id>
+    <published>2023-03-08T16:29:05+01:00</published>
+    <updated>2023-03-08T16:29:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/nordic-glass-plates"/>
+    <title>Nordic Glass Plates</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/H169ae80bef7e4459a108471ba8be13ecQ.jpg?v=1676817067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            20.00 - 40.00
+            <a href="https://vasanashop.com/products/nordic-glass-plates">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Add a touch of Nordic elegance to your dining experience with our beautiful glass plate. The high-quality glass construction ensures both durability and longevity, while the large size provides ample room for any dish. A timeless aesthetic that complements any dish.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941223203</id>
+      <title>Small Trans Plate</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>14:350686#6 inch Trans Plate</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941223203</id>
+      <title>Medium Trans Plate</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>14:350853#9 inch Trans Plate</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941223203</id>
+      <title>Long Plate</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:10#Long Plate</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130941190435</id>
+    <published>2023-03-08T16:29:05+01:00</published>
+    <updated>2023-03-08T16:29:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/nordic-style-egg-tray"/>
+    <title>Nordic-Style Egg Tray</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/H00fe17a806d446bd8ba68d67a7004176o.jpg?v=1676817066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            35.00 - 40.00
+            <a href="https://vasanashop.com/products/nordic-style-egg-tray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>The tray features a modern and elegant Nordic-style design that complements many kitchen decor styles. In addition to storing eggs, our customers also use it as a jewelry storage tray or for other small items. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941190435</id>
+      <title>6 grid egg tray</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>14:193#6 grid egg tray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941190435</id>
+      <title>12 grid egg tray</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:175#12 grid egg tray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130941419811</id>
+    <published>2023-03-08T16:29:04+01:00</published>
+    <updated>2023-03-08T16:29:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/cone-decanter"/>
+    <title>Cone Decanter</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/HTB1jQyITXzqK1RjSZFCq6zbxVXaX.jpg?v=1676817076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            65.00 - 80.00
+            <a href="https://vasanashop.com/products/cone-decanter">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>There is no better way to end your night than with a glass ( or two ) of your favorite Cabernet Sauvignon. Although I tend to rethink things upon waking up. Anyways, wine decanter, built-in aerator.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941419811</id>
+      <title>700ML</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>14:173#Type A-700ML</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941419811</id>
+      <title>350ML</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>14:193#Type B-350ML</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130941092131</id>
+    <published>2023-03-08T16:27:24+01:00</published>
+    <updated>2023-03-08T16:27:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/japanese-ramen-bowl"/>
+    <title>Japanese Ramen Bowl</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Hd8ece8af48fc4dc395d6fbb7c7acac01V.jpg?v=1676817063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our Japanese ceramic ramen bowl is an authentic and elegant addition to any kitchen. Crafted by skilled artisans, its traditional design and deep blue color reflect the simplicity and beauty of Japanese culture.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchenware</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941092131</id>
+      <title>Black - Red interior</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:193#A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941092131</id>
+      <title>Black - Green interior</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:175#B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941092131</id>
+      <title>White - Brown interior</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:10#C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941092131</id>
+      <title>White - Dark Blue interior</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:691#D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941092131</id>
+      <title>Blue - White interior</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:173#E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130941092131</id>
+      <title>Blue - Pink interior</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>14:366#F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vasanashop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vasanashop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vasanashop.com/collections/restroom-essentials.atom"/>
+  <title>Vasana™</title>
+  <updated>2023-03-30T19:12:08+02:00</updated>
+  <author>
+    <name>Vasana™</name>
+  </author>
+  <entry>
+    <id>https://vasanashop.com/products/8144558424355</id>
+    <published>2023-03-30T19:12:08+02:00</published>
+    <updated>2023-03-30T19:12:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/toilet-roll-paper-holder"/>
+    <title>Toilet Roll Paper Holder</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/6.jpg?v=1677572363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Toilet roll paper holder, clean and simple design with a space-saving rack that holds up to four rolls of toilet paper. The perfect solution for your bathroom storage needs!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Restroom</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8144558424355</id>
+      <title>Beech(Screw)</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200006151#Beech(Screw)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8144558424355</id>
+      <title>Beech(Glue)</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200006152#Beech(Glue)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8144558424355</id>
+      <title>Black Walnut(Screw)</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200006153#Black Walnut(Screw)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8144558424355</id>
+      <title>Black Walnut(Glue)</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200006154#Black Walnut(Glue)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8152889688355</id>
+    <published>2023-03-30T19:11:39+02:00</published>
+    <updated>2023-03-30T19:11:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/resin-four-piece-bathroom-accessory-set"/>
+    <title>Resin Four-Piece Bathroom Accessory Set</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/Sa9695a49ead6464683c36d025ab98cb0K.jpg?v=1677933736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            23.00 - 100.00
+            <a href="https://vasanashop.com/products/resin-four-piece-bathroom-accessory-set">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">With a stylish resin finish, this set is both practical and fashionable, making it the perfect addition to any bathroom.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Restroom</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>4 Pcs</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>14:29#4 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>3 Pcs</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>14:366#3 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>2 Pcs</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:10#2 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>2 Pcs 1</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>14:200002984#2 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>2 Pcs 2</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>14:496#2 Pcs;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>Soap dispenser</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>14:200006151#Soap dispenser;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>Toothbrush Cup</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>14:200004891#Toothbrush Cup;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>Soap Dish</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>14:200005536#Soap Dish;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8152889688355</id>
+      <title>Toilet Brush Holder</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>14:100018786#Toilet Brush Holder;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vasanashop.com/products/8130939912483</id>
+    <published>2023-03-08T16:29:08+01:00</published>
+    <updated>2023-03-08T16:29:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://vasanashop.com/products/mini-dustbin"/>
+    <title>Mini Dustbin</title>
+    <s:type>0</s:type>
+    <s:vendor>Vasana™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0723/6858/7043/products/H06e28440c22e4d11908823c35621b6b35.jpg?v=1676816999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vasana™<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool mini dustbin for paper stuff so you don't have to go out into the kitchen to throw a scrambled idea out.<br></p>
+<p><span data-mce-fragment="1" mce-data-marked="1">We thought about this description long and hard yes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Restroom</s:tag>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939912483</id>
+      <title>Gray</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>14:10#gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939912483</id>
+      <title>Pink</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>14:347#pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vasanashop.com/products/8130939912483</id>
+      <title>White</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>14:29#white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

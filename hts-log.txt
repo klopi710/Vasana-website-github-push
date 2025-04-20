@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 20 Apr 2025 14:40:12 at https://vasanashop.com/
+(winhttrack https://vasanashop.com/ -O "C:\Users\tmrwuser\Documents\Smaller Creator\Experience/Vasana Website" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:41:17	Error: 	"Not Found" (404) at link https://vasanashop.com/POST (from https://vasanashop.com/)
+14:41:17	Error: 	"Error when decompressing" (-1) at link https://vasanashop.com/cdn (from https://vasanashop.com/)
+14:43:00	Error: 	"Not Found" (404) at link https://vasanashop.com/collections/POST (from https://vasanashop.com/collections/decorations)
+14:58:56	Warning: 	Moved Permanently for vasanashop.com/robots.txt
+14:58:56	Warning: 	Redirected link is identical because of 'URL Hack' option: vasanashop.com/robots.txt and https://vasanashop.com/robots.txt
+14:58:56	Warning: 	Warning moved treated for vasanashop.com/robots.txt (real one is https://vasanashop.com/robots.txt)
+14:58:56	Warning: 	Moved Permanently for vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=533
+14:58:56	Warning: 	Redirected link is identical because of 'URL Hack' option: vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=533 and https://vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=533
+14:58:56	Warning: 	File has moved from vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=533 to https://vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=533
+15:04:00	Error: 	"Not Found" (404) at link https://vasanashop.com/Trident/ (from https://vasanashop.com/cart)
+15:04:00	Error: 	"Not Found" (404) at link https://vasanashop.com/pages/POST (from https://vasanashop.com/pages/inquiries)
+15:04:00	Error: 	"Not Found" (404) at link https://vasanashop.com/products/POST (from https://vasanashop.com/products/crystal-bell-peppers)
+15:04:00	Error: 	"Not Found" (404) at link https://vasanashop.com/products/Trident/ (from https://vasanashop.com/products/crystal-bell-peppers)
+15:04:00	Warning: 	Moved Permanently for vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1946
+15:04:00	Warning: 	Redirected link is identical because of 'URL Hack' option: vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1946 and https://vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1946
+15:04:00	Warning: 	File has moved from vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1946 to https://vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1946
+15:04:00	Warning: 	Moved Permanently for vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1445
+15:04:00	Warning: 	Redirected link is identical because of 'URL Hack' option: vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1445 and https://vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1445
+15:04:00	Warning: 	File has moved from vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1445 to https://vasanashop.com/cdn/shop/products/Modern-LED-Ceiling-Chandelier-Table-Dining-Room-Kitchen-Minimalist-Pendant-Home-Decor-Lighting-Lustre-Linear-Lamp_jpg_Q90_jpg.webp?v=1677831147&width=1445
+15:04:03	Error: 	"Not Found" (404) at link https://vasanashop.com/policies/POST (from https://vasanashop.com/policies/shipping-policy)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 36 seconds : 1074 links scanned, 1061 files written (138337205 bytes overall) [128889642 bytes received at 87323 bytes/sec], 16456587 bytes transferred using HTTP compression in 143 files, ratio 20%, 154.3 requests per connection
+(8 errors, 12 warnings, 0 messages)
